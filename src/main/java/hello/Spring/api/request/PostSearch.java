@@ -23,12 +23,6 @@ public class PostSearch {
     @Builder.Default
     private int size = 10;
 
-//    @Builder
-//    public PostSearch(Integer page, Integer size) {
-//        this.page = page;
-//        this.size = size;
-//    }
-
 
     /**
      * 페이징 처리 코드
